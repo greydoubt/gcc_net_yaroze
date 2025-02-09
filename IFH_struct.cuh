@@ -1,4 +1,5 @@
 // IMAGE_FILE_HEADER structure (CUDA header adapted from generic winnt.h)
+// Represents the COFF header format found at: https://en.wikipedia.org/wiki/COFF
 
 typedef struct _IMAGE_FILE_HEADER {
   UNSIGNED  Machine;
