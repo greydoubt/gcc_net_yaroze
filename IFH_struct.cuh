@@ -1,4 +1,4 @@
-// IMAGE_FILE_HEADER structure (winnt.h)
+// IMAGE_FILE_HEADER structure (CUDA header adapted from generic winnt.h)
 
 typedef struct _IMAGE_FILE_HEADER {
   UNSIGNED  Machine;
